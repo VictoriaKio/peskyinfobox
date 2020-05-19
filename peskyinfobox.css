@@ -1,0 +1,27 @@
+body *
+{
+	box-sizing:border-box;
+}
+
+.container{
+	position: relative;
+}
+
+/*TODO style the Nav*/
+
+.container nav{
+	position:absolute;
+	border:dotted;
+}
+
+
+.info{
+
+	background-color:red;
+	color: white;
+	padding:10px;
+	position:fixed;
+	top:0;
+	right:0;
+
+}
